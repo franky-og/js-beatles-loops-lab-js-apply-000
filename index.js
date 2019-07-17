@@ -18,12 +18,12 @@ function johnLennonFacts(johnlemon){
   return johnlemon
 }
 
-function iLoveTheBeatles(ihatethebeatles){
+function iLoveTheBeatles(num){
   var output = []
   var counter = 0
   do {
     output[counter] = "I love the Beatles!"
     counter ++
   }
-  while(ihatethebeatles < 15 
+  while(num < 15 && counter < 15 - num)
 }
