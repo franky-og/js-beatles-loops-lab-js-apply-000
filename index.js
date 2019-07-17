@@ -15,4 +15,5 @@ function johnLennonFacts(johnlemon){
     johnlemon[counter] = johnlemon[counter] + "!!!"
     counter ++
   }
+  return johnlemon
 }
