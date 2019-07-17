@@ -1,13 +1,13 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments){
-  var output = [];
+  var output = []
   
   
   for(var counter = 0; counter < musicians.length; counter++){
-    output[counter] = musicians[counter] + " plays " + instruments[counter];
+    output[counter] = musicians[counter] + " plays " + instruments[counter]
   }
   
-  return output;
+  return output
 }
 function johnLennonFacts(johnlemon){
   var counter = 0
@@ -26,4 +26,5 @@ function iLoveTheBeatles(num){
     counter ++
   }
   while(num < 15 && counter < 15 - num)
+  return output
 }
