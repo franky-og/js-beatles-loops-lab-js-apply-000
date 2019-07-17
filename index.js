@@ -1,5 +1,7 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments){
-  var output = ['hi', 'bye', 'bljadf'];
-  
+  var output = [];
+  for(counter = 0; counter < musicians.length; counter++){
+    
+  }
 }
