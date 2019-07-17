@@ -18,4 +18,7 @@ function johnLennonFacts(johnlemon){
   return johnlemon
 }
 
-function iLoveTheBeatles()
+function iLoveTheBeatles(ihatethebeatles){
+  var output = []
+  while
+}
