@@ -25,4 +25,5 @@ function iLoveTheBeatles(ihatethebeatles){
     output[counter] = "I love the Beatles!"
     counter ++
   }
+  while(ihatethebeatles < 15 
 }
