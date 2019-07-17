@@ -20,5 +20,7 @@ function johnLennonFacts(johnlemon){
 
 function iLoveTheBeatles(ihatethebeatles){
   var output = []
-  do
+  do {
+    
+  }
 }
