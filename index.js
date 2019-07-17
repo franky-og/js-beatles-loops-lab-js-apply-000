@@ -20,7 +20,9 @@ function johnLennonFacts(johnlemon){
 
 function iLoveTheBeatles(ihatethebeatles){
   var output = []
+  var counter = 0
   do {
-    
+    output[counter] = "I love the Beatles!"
+    counter ++
   }
 }
