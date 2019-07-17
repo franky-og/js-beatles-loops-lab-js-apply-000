@@ -20,5 +20,5 @@ function johnLennonFacts(johnlemon){
 
 function iLoveTheBeatles(ihatethebeatles){
   var output = []
-  while
+  do
 }
